@@ -1,0 +1,2496 @@
+Perfil
+Nome
+Rentabilidade
+Prazo
+Aplicação Mínima
+Estimativa
+
+LCI Pine
+115,00% do CDI
+580 dias
+R$ 1.000,00
+-
+
+LCI ABC Pré-Fixada
+1,45% a.a.
+90 dias
+R$ 50.000,00
+-
+
+LCI ABC Pré-Fixada
+1,54% a.a.
+120 dias
+R$ 50.000,00
+-
+
+LCI ABC Pré-Fixada
+5,50% a.a.
+1080 dias
+R$ 50.000,00
+-
+
+LCI ABC Pré-Fixada
+2,58% a.a.
+362 dias
+R$ 50.000,00
+-
+
+LCI ABC Pré-Fixada
+3,41% a.a.
+540 dias
+R$ 50.000,00
+-
+
+LCI ABC Pré-Fixada
+4,29% a.a.
+720 dias
+R$ 50.000,00
+-
+
+LCI ABC Pré-Fixada
+1,71% a.a.
+180 dias
+R$ 50.000,00
+-
+
+LCI ABC
+100,00% do CDI
+90 dias
+R$ 50.000,00
+-
+
+LCI ABC
+105,00% do CDI
+362 dias
+R$ 50.000,00
+-
+
+LCI ABC
+106,00% do CDI
+540 dias
+R$ 50.000,00
+-
+
+LCI ABC
+108,00% do CDI
+720 dias
+R$ 50.000,00
+-
+
+LCI ABC
+109,00% do CDI
+1080 dias
+R$ 50.000,00
+-
+
+LCI ABC
+101,00% do CDI
+120 dias
+R$ 50.000,00
+-
+
+LCA Original Pré-Fixada
+2,71% a.a.
+361 dias
+R$ 5.000,00
+-
+
+LCA Original Pré-Fixada
+3,69% a.a.
+540 dias
+R$ 5.000,00
+-
+
+LCA Original
+111,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+LCA Original
+114,00% do CDI
+540 dias
+R$ 1.000,00
+-
+
+LCA Original
+117,00% do CDI
+720 dias
+R$ 1.000,00
+-
+
+LCA BTG Pactual
+107,00% do CDI
+365 dias
+R$ 50.000,00
+-
+
+LCA BTG Pactual
+104,00% do CDI
+180 dias
+R$ 50.000,00
+-
+
+LC Sorocred
+147,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+LC Sorocred
+122,00% do CDI
+181 dias
+R$ 10.000,00
+-
+
+LC Sorocred
+142,00% do CDI
+365 dias
+R$ 10.000,00
+-
+
+LC Santana
+149,00% do CDI
+1080 dias
+R$ 5.000,00
+-
+
+LC Santana
+152,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+LC Agoracred Pre
+4,70% a.a.
+362 dias
+R$ 10.000,00
+-
+
+LC Agoracred Pre
+5,20% a.a.
+1080 dias
+R$ 10.000,00
+-
+
+LC Agoracred Pre
+5,00% a.a.
+721 dias
+R$ 10.000,00
+-
+
+LC Agoracred
+148,00% do CDI
+1800 dias
+R$ 10.000,00
+-
+
+LC Agoracred
+146,00% do CDI
+1080 dias
+R$ 10.000,00
+-
+
+LC Agoracred
+146,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+LC Agoracred
+145,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+LC Agoracred
+147,00% do CDI
+1440 dias
+R$ 10.000,00
+-
+
+CDB Votorantim Pré-fixado
+1,79% a.a.
+121 dias
+R$ 10.000,00
+-
+
+CDB Votorantim Pré-fixado
+2,02% a.a.
+182 dias
+R$ 10.000,00
+-
+
+CDB Votorantim Pré-fixado
+3,02% a.a.
+365 dias
+R$ 10.000,00
+-
+
+CDB Votorantim
+112,00% do CDI
+365 dias
+R$ 10.000,00
+-
+
+CDB Votorantim
+106,00% do CDI
+182 dias
+R$ 10.000,00
+-
+
+CDB Votorantim
+116,00% do CDI
+730 dias
+R$ 10.000,00
+-
+
+CDB Votorantim
+103,00% do CDI
+121 dias
+R$ 10.000,00
+-
+
+CDB Tricury
+111,00% do CDI
+721 dias
+R$ 20.000,00
+-
+
+CDB Tricury
+108,00% do CDI
+361 dias
+R$ 20.000,00
+-
+
+CDB Tricury
+114,00% do CDI
+1082 dias
+R$ 20.000,00
+-
+
+CDB Topázio
+136,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Topázio
+125,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB Sofisa Pos
+121,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB Sofisa Pos
+112,00% do CDI
+365 dias
+R$ 5.000,00
+-
+
+CDB Sofisa Pos
+126,00% do CDI
+1081 dias
+R$ 5.000,00
+-
+
+CDB Semear Pré-fixado
+5,08% a.a.
+725 dias
+R$ 5.000,00
+-
+
+CDB Semear Pré-fixado
+3,05% a.a.
+365 dias
+R$ 5.000,00
+-
+
+CDB Semear
+127,00% do CDI
+367 dias
+R$ 5.000,00
+-
+
+CDB Semear
+131,00% do CDI
+1085 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+3,81% a.a.
+540 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+7,61% a.a.
+1440 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+5,82% a.a.
+900 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+8,16% a.a.
+1800 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+5,29% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+6,82% a.a.
+1081 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+2,53% a.a.
+365 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+8,63% a.a.
+2557 dias
+R$ 5.000,00
+-
+
+CDB Pine Pré-fixado
+8,20% a.a.
+2160 dias
+R$ 5.000,00
+-
+
+CDB Pine IPCA
+IPCA 3,80% a.a.
+1826 dias
+R$ 5.000,00
+-
+
+CDB Pine IPCA
+IPCA 3,26% a.a.
+1461 dias
+R$ 5.000,00
+-
+
+CDB Pine IPCA
+IPCA 3,93% a.a.
+2556 dias
+R$ 5.000,00
+-
+
+CDB Pine IPCA
+IPCA 2,45% a.a.
+1096 dias
+R$ 5.000,00
+-
+
+CDB Pine IPCA
+IPCA 3,51% a.a.
+2192 dias
+R$ 5.000,00
+-
+
+CDB Pine
+109,00% do CDI
+365 dias
+R$ 5.000,00
+-
+
+CDB Pine
+124,00% do CDI
+2160 dias
+R$ 5.000,00
+-
+
+CDB Pine
+128,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB Pine
+103,00% do CDI
+181 dias
+R$ 5.000,00
+-
+
+CDB Pine
+124,00% do CDI
+2557 dias
+R$ 5.000,00
+-
+
+CDB Pine
+127,00% do CDI
+1440 dias
+R$ 5.000,00
+-
+
+CDB Pine
+128,00% do CDI
+900 dias
+R$ 5.000,00
+-
+
+CDB Pine
+130,00% do CDI
+1080 dias
+R$ 5.000,00
+-
+
+CDB Pine
+124,00% do CDI
+1800 dias
+R$ 5.000,00
+-
+
+CDB Pine
+115,00% do CDI
+540 dias
+R$ 5.000,00
+-
+
+CDB Paraná
+107,00% do CDI
+181 dias
+R$ 10.000,00
+-
+
+CDB Paraná
+112,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB Paraná
+117,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB Paraná
+120,00% do CDI
+1081 dias
+R$ 10.000,00
+-
+
+CDB Pan Pré-Fixado
+4,25% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Pan Pré-Fixado
+2,47% a.a.
+361 dias
+R$ 5.000,00
+-
+
+CDB Pan Pré-Fixado
+1,54% a.a.
+181 dias
+R$ 5.000,00
+-
+
+CDB Pan Pré-Fixado
+5,53% a.a.
+1080 dias
+R$ 5.000,00
+-
+
+CDB Pan Pré-Fixado
+1,24% a.a.
+90 dias
+R$ 5.000,00
+-
+
+CDB Pan IPCA
+IPCA 1,28% a.a.
+1085 dias
+R$ 5.000,00
+-
+
+CDB Pan
+104,00% do CDI
+181 dias
+R$ 5.000,00
+-
+
+CDB Pan
+101,00% do CDI
+90 dias
+R$ 5.000,00
+-
+
+CDB Pan
+111,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB Pan
+106,00% do CDI
+361 dias
+R$ 5.000,00
+-
+
+CDB Pan
+114,00% do CDI
+1080 dias
+R$ 5.000,00
+-
+
+CDB Original Pré-Fixado
+4,42% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Original
+115,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB Omni Pré-Fixado
+3,10% a.a.
+365 dias
+R$ 5.000,00
+-
+
+CDB Omni Pré-Fixado
+5,09% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Omni Pré-Fixado
+6,67% a.a.
+1081 dias
+R$ 5.000,00
+-
+
+CDB Omni
+130,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB Omni
+127,00% do CDI
+365 dias
+R$ 5.000,00
+-
+
+CDB Omni
+134,00% do CDI
+1081 dias
+R$ 5.000,00
+-
+
+CDB Omni
+103,00% do CDI
+181 dias
+R$ 5.000,00
+-
+
+CDB NBC Pré-fixado
+2,20% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB NBC Pré-fixado
+5,30% a.a.
+1081 dias
+R$ 1.000,00
+-
+
+CDB NBC Pré-fixado
+4,10% a.a.
+721 dias
+R$ 1.000,00
+-
+
+CDB NBC
+117,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB NBC
+127,00% do CDI
+1081 dias
+R$ 1.000,00
+-
+
+CDB NBC
+117,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+7,00% a.a.
+1440 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+1,50% a.a.
+181 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+8,00% a.a.
+1810 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+2,60% a.a.
+361 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+4,70% a.a.
+721 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+9,50% a.a.
+2881 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+1,30% a.a.
+120 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+6,20% a.a.
+1082 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+8,70% a.a.
+2170 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+9,00% a.a.
+2520 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado
+1,00% a.a.
+91 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+1082 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+133,00% do CDI
+120 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+2881 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+1440 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+132,00% do CDI
+91 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+1810 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+2530 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+CDB Máxima
+137,00% do CDI
+2170 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+1,62% a.a.
+60 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+1,89% a.a.
+150 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+4,45% a.a.
+731 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+6,69% a.a.
+3600 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+1,58% a.a.
+30 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+6,45% a.a.
+1360 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+1,68% a.a.
+90 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+5,13% a.a.
+900 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+5,81% a.a.
+1095 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+3,52% a.a.
+540 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+5,66% a.a.
+2160 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+2,04% a.a.
+181 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+1,76% a.a.
+120 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+4,75% a.a.
+800 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+2,63% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+6,61% a.a.
+1440 dias
+R$ 1.000,00
+-
+
+CDB Modal Pré-fixado
+7,33% a.a.
+1800 dias
+R$ 1.000,00
+-
+
+CDB Modal
+120,00% do CDI
+540 dias
+R$ 1.000,00
+-
+
+CDB Modal
+103,00% do CDI
+30 dias
+R$ 1.000,00
+-
+
+CDB Modal
+110,00% do CDI
+181 dias
+R$ 1.000,00
+-
+
+CDB Modal
+123,00% do CDI
+731 dias
+R$ 1.000,00
+-
+
+CDB Modal
+117,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB Modal
+106,00% do CDI
+120 dias
+R$ 1.000,00
+-
+
+CDB Modal
+104,00% do CDI
+60 dias
+R$ 1.000,00
+-
+
+CDB Luso Brasileiro
+127,00% do CDI
+365 dias
+R$ 10.000,00
+-
+
+CDB Luso Brasileiro
+133,00% do CDI
+1460 dias
+R$ 10.000,00
+-
+
+CDB Luso Brasileiro
+107,00% do CDI
+182 dias
+R$ 10.000,00
+-
+
+CDB Luso Brasileiro
+133,00% do CDI
+1825 dias
+R$ 10.000,00
+-
+
+CDB Luso Brasileiro
+132,00% do CDI
+1095 dias
+R$ 10.000,00
+-
+
+CDB Luso Brasileiro
+131,00% do CDI
+730 dias
+R$ 10.000,00
+-
+
+CDB Haitong Pré-fixado
+2,99% a.a.
+365 dias
+R$ 30.000,00
+-
+
+CDB Haitong Pré-fixado
+4,88% a.a.
+730 dias
+R$ 30.000,00
+-
+
+CDB Haitong
+117,00% do CDI
+365 dias
+R$ 30.000,00
+-
+
+CDB Haitong
+117,00% do CDI
+731 dias
+R$ 30.000,00
+-
+
+CDB Fidis
+122,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB Fidis
+112,00% do CDI
+181 dias
+R$ 10.000,00
+-
+
+CDB Fidis
+122,00% do CDI
+1081 dias
+R$ 10.000,00
+-
+
+CDB Fidis
+117,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB Fibra Pré-fixado
+6,31% a.a.
+1096 dias
+R$ 10.000,00
+-
+
+CDB Fibra Pré-fixado
+4,75% a.a.
+732 dias
+R$ 10.000,00
+-
+
+CDB Fibra Pré-fixado
+7,61% a.a.
+1826 dias
+R$ 10.000,00
+-
+
+CDB Fibra Pré-fixado
+8,11% a.a.
+2192 dias
+R$ 10.000,00
+-
+
+CDB Fibra Pré-fixado
+7,02% a.a.
+1461 dias
+R$ 10.000,00
+-
+
+CDB Fibra Pré-fixado
+5,72% a.a.
+914 dias
+R$ 10.000,00
+-
+
+CDB Fibra IPCA
+IPCA 2,90% a.a.
+1461 dias
+R$ 10.000,00
+-
+
+CDB Fibra IPCA
+IPCA 3,96% a.a.
+2191 dias
+R$ 10.000,00
+-
+
+CDB Fibra IPCA
+IPCA 3,48% a.a.
+1826 dias
+R$ 10.000,00
+-
+
+CDB Fibra IPCA
+IPCA 2,16% a.a.
+1095 dias
+R$ 10.000,00
+-
+
+CDB Fibra
+123,00% do CDI
+732 dias
+R$ 10.000,00
+-
+
+CDB Fibra
+129,00% do CDI
+1461 dias
+R$ 10.000,00
+-
+
+CDB Fibra
+127,00% do CDI
+1096 dias
+R$ 10.000,00
+-
+
+CDB Fibra
+123,00% do CDI
+914 dias
+R$ 10.000,00
+-
+
+CDB Fibra
+129,00% do CDI
+1826 dias
+R$ 10.000,00
+-
+
+CDB Fator Pré-fixado
+1,30% a.a.
+181 dias
+R$ 5.000,00
+-
+
+CDB Fator Pré-fixado
+3,90% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Fator Pré-fixado
+2,20% a.a.
+365 dias
+R$ 5.000,00
+-
+
+CDB Fator Pré-fixado
+3,10% a.a.
+540 dias
+R$ 5.000,00
+-
+
+CDB Fator Pré-fixado
+5,10% a.a.
+1081 dias
+R$ 5.000,00
+-
+
+CDB Fator IPCA
+IPCA 1,30% a.a.
+1096 dias
+R$ 5.000,00
+-
+
+CDB Fator
+105,00% do CDI
+540 dias
+R$ 5.000,00
+-
+
+CDB Fator
+107,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB Fator
+99,00% do CDI
+181 dias
+R$ 5.000,00
+-
+
+CDB Fator
+109,00% do CDI
+1081 dias
+R$ 5.000,00
+-
+
+CDB Fator
+102,00% do CDI
+365 dias
+R$ 5.000,00
+-
+
+CDB Daycoval Pré-fixado
+4,18% a.a.
+721 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+4,82% a.a.
+911 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+5,31% a.a.
+1081 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+1,34% a.a.
+90 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+6,50% a.a.
+1800 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+1,65% a.a.
+181 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+2,58% a.a.
+361 dias
+R$ 20.000,00
+-
+
+CDB Daycoval Pré-fixado
+1,41% a.a.
+120 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+105,00% do CDI
+90 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+109,50% do CDI
+912 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+109,50% do CDI
+1081 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+109,50% do CDI
+721 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+109,50% do CDI
+1800 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+105,00% do CDI
+120 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+109,50% do CDI
+1442 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+107,00% do CDI
+182 dias
+R$ 20.000,00
+-
+
+CDB Daycoval
+109,50% do CDI
+361 dias
+R$ 20.000,00
+-
+
+CDB C6
+124,00% do CDI
+365 dias
+R$ 5.000,00
+-
+
+CDB C6
+129,00% do CDI
+721 dias
+R$ 5.000,00
+-
+
+CDB C6
+134,00% do CDI
+1440 dias
+R$ 5.000,00
+-
+
+CDB C6
+132,00% do CDI
+1800 dias
+R$ 5.000,00
+-
+
+CDB C6
+136,00% do CDI
+1081 dias
+R$ 5.000,00
+-
+
+CDB Bari IPCA
+IPCA 2,45% a.a.
+1095 dias
+R$ 10.000,00
+-
+
+CDB Bari IPCA
+IPCA 3,05% a.a.
+1461 dias
+R$ 10.000,00
+-
+
+CDB BS2 Pré-Fixado
+3,25% a.a.
+362 dias
+R$ 10.000,00
+-
+
+CDB BS2 Pré-Fixado
+2,20% a.a.
+182 dias
+R$ 10.000,00
+-
+
+CDB BS2 Pré-Fixado
+1,40% a.a.
+91 dias
+R$ 10.000,00
+-
+
+CDB BS2
+109,00% do CDI
+91 dias
+R$ 10.000,00
+-
+
+CDB BS2
+134,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB BS2
+137,00% do CDI
+181 dias
+R$ 10.000,00
+-
+
+CDB BR Partners
+134,00% do CDI
+721 dias
+R$ 20.000,00
+-
+
+CDB BR Partners
+132,00% do CDI
+365 dias
+R$ 20.000,00
+-
+
+CDB BMG Pré-fixado
+5,49% a.a.
+721 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+2,19% a.a.
+181 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+4,36% a.a.
+540 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+3,23% a.a.
+361 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+6,67% a.a.
+1080 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+8,76% a.a.
+2520 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+8,05% a.a.
+1800 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+7,51% a.a.
+1440 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+7,09% a.a.
+1260 dias
+R$ 10.000,00
+-
+
+CDB BMG Pré-fixado
+6,25% a.a.
+900 dias
+R$ 10.000,00
+-
+
+CDB BMG IPCA
+IPCA 1,82% a.a.
+1100 dias
+R$ 10.000,00
+-
+
+CDB BMG IPCA
+IPCA 1,30% a.a.
+917 dias
+R$ 10.000,00
+-
+
+CDB BMG IPCA
+IPCA 2,33% a.a.
+1285 dias
+R$ 10.000,00
+-
+
+CDB BMG IPCA
+IPCA 3,90% a.a.
+2196 dias
+R$ 10.000,00
+-
+
+CDB BMG IPCA
+IPCA 3,35% a.a.
+1831 dias
+R$ 10.000,00
+-
+
+CDB BMG IPCA
+IPCA 2,85% a.a.
+1467 dias
+R$ 10.000,00
+-
+
+CDB BMG
+110,00% do CDI
+181 dias
+R$ 10.000,00
+-
+
+CDB BMG
+119,00% do CDI
+540 dias
+R$ 10.000,00
+-
+
+CDB BMG
+127,00% do CDI
+1440 dias
+R$ 10.000,00
+-
+
+CDB BMG
+127,00% do CDI
+900 dias
+R$ 10.000,00
+-
+
+CDB BMG
+127,00% do CDI
+1260 dias
+R$ 10.000,00
+-
+
+CDB BMG
+127,00% do CDI
+1080 dias
+R$ 10.000,00
+-
+
+CDB BMG
+117,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB BMG
+127,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB BMG
+127,00% do CDI
+1800 dias
+R$ 10.000,00
+-
+
+CDB BCG Brasil Pré-fixado
+4,26% a.a.
+721 dias
+R$ 100.000,00
+-
+
+CDB BCG Brasil Pré-fixado
+5,43% a.a.
+1080 dias
+R$ 100.000,00
+-
+
+CDB BCG Brasil Pré-fixado
+2,49% a.a.
+365 dias
+R$ 100.000,00
+-
+
+CDB BCG Brasil
+115,50% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB BCG Brasil
+115,50% do CDI
+1080 dias
+R$ 10.000,00
+-
+
+CDB BCG Brasil
+112,50% do CDI
+365 dias
+R$ 10.000,00
+-
+
+CDB Agibank Pré-Fixado
+6,67% a.a.
+1095 dias
+R$ 1.000,00
+-
+
+CDB Agibank Pré-Fixado
+5,02% a.a.
+730 dias
+R$ 1.000,00
+-
+
+CDB Agibank Pré-Fixado
+7,52% a.a.
+1460 dias
+R$ 1.000,00
+-
+
+CDB Agibank Pré-Fixado
+2,85% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB Agibank Pré-Fixado
+7,85% a.a.
+2190 dias
+R$ 1.000,00
+-
+
+CDB Agibank Pré-Fixado
+8,13% a.a.
+1825 dias
+R$ 1.000,00
+-
+
+CDB Agibank
+131,00% do CDI
+1081 dias
+R$ 1.000,00
+-
+
+CDB Agibank
+132,00% do CDI
+1825 dias
+R$ 1.000,00
+-
+
+CDB Agibank
+117,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+CDB Agibank
+131,00% do CDI
+1442 dias
+R$ 1.000,00
+-
+
+CDB Agibank
+127,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Agibank
+109,00% do CDI
+182 dias
+R$ 1.000,00
+-
+
+LCI Semear
+103,00% do CDI
+92 dias
+R$ 5.000,00
+-
+
+LCA Daycoval Pre
+1,34% a.a.
+90 dias
+R$ 20.000,00
+-
+
+LCA Daycoval Pre
+2,58% a.a.
+361 dias
+R$ 20.000,00
+-
+
+LCA Daycoval Pre
+1,65% a.a.
+181 dias
+R$ 20.000,00
+-
+
+LCA Daycoval Pre
+1,41% a.a.
+120 dias
+R$ 20.000,00
+-
+
+LCA Daycoval Pos
+107,00% do CDI
+182 dias
+R$ 20.000,00
+-
+
+LCA Daycoval Pos
+109,50% do CDI
+360 dias
+R$ 20.000,00
+-
+
+LCA Daycoval Pos
+105,00% do CDI
+120 dias
+R$ 20.000,00
+-
+
+LCA Bocom Pre
+4,23% a.a.
+721 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pre
+5,45% a.a.
+1080 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pre
+2,22% a.a.
+361 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pre
+1,31% a.a.
+181 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pos
+114,00% do CDI
+721 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pos
+100,00% do CDI
+181 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pos
+115,00% do CDI
+1081 dias
+R$ 50.000,00
+-
+
+LCA Bocom Pos
+105,00% do CDI
+365 dias
+R$ 50.000,00
+-
+
+LC Santinvest
+142,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+LC Santinvest
+132,00% do CDI
+1080 dias
+R$ 1.000,00
+-
+
+LC Santinvest
+127,00% do CDI
+1800 dias
+R$ 1.000,00
+-
+
+LC Santinvest
+129,00% do CDI
+1440 dias
+R$ 1.000,00
+-
+
+LC Santinvest
+107,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+LC Avista Pre
+4,83% a.a.
+1440 dias
+R$ 1.000,00
+-
+
+LC Avista Pre
+4,75% a.a.
+1800 dias
+R$ 1.000,00
+-
+
+LC Avista Pre
+3,65% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB Voiter Indusval Pre
+3,25% a.a.
+361 dias
+R$ 1.000,00
+-
+
+CDB Voiter Indusval Pre
+6,55% a.a.
+1081 dias
+R$ 1.000,00
+-
+
+CDB Voiter Indusval Pre
+5,15% a.a.
+721 dias
+R$ 1.000,00
+-
+
+CDB Voiter Indusval Pos
+128,00% do CDI
+1081 dias
+R$ 1.000,00
+-
+
+CDB Voiter Indusval Pos
+126,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Voiter Indusval Pos
+125,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+CDB Sofisa Pre
+6,70% a.a.
+1081 dias
+R$ 5.000,00
+-
+
+CDB Sofisa Pre
+5,10% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Socinal Pos
+133,00% do CDI
+2557 dias
+R$ 5.000,00
+-
+
+CDB Smartbank Pre
+6,55% a.a.
+1080 dias
+R$ 1.000,00
+-
+
+CDB Smartbank Pre
+3,25% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB Smartbank Pre
+5,15% a.a.
+721 dias
+R$ 1.000,00
+-
+
+CDB Smartbank Pos
+125,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB Smartbank Pos
+126,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Smartbank Pos
+128,00% do CDI
+1080 dias
+R$ 1.000,00
+-
+
+CDB Santinvest Pos
+142,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Santinvest Pos
+129,00% do CDI
+1440 dias
+R$ 1.000,00
+-
+
+CDB Santinvest Pos
+132,00% do CDI
+1080 dias
+R$ 1.000,00
+-
+
+CDB Santinvest Pos
+127,00% do CDI
+1800 dias
+R$ 1.000,00
+-
+
+CDB Santinvest Pos
+107,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+CDB Santana Pre
+7,20% a.a.
+1080 dias
+R$ 2.000,00
+-
+
+CDB Santana Pre
+5,60% a.a.
+721 dias
+R$ 2.000,00
+-
+
+CDB SENFF POS
+106,00% do CDI
+540 dias
+R$ 1.000,00
+-
+
+CDB SENFF POS
+112,00% do CDI
+1440 dias
+R$ 1.000,00
+-
+
+CDB SENFF POS
+114,00% do CDI
+1800 dias
+R$ 1.000,00
+-
+
+CDB SENFF POS
+102,00% do CDI
+181 dias
+R$ 1.000,00
+-
+
+CDB SENFF POS
+104,00% do CDI
+361 dias
+R$ 1.000,00
+-
+
+CDB SENFF POS
+110,00% do CDI
+1080 dias
+R$ 1.000,00
+-
+
+CDB SENFF POS
+108,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB MAXINVEST-RNX PRE
+2,05% a.a.
+181 dias
+R$ 1.000,00
+-
+
+CDB MAXINVEST-RNX PRE
+3,45% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB MAXINVEST-RNX POS
+142,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB MAXINVEST-RNX POS
+132,00% do CDI
+181 dias
+R$ 1.000,00
+-
+
+CDB Luso Pre
+1,50% a.a.
+182 dias
+R$ 5.000,00
+-
+
+CDB Luso Pre
+4,15% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB Luso Pre
+5,70% a.a.
+1081 dias
+R$ 5.000,00
+-
+
+CDB Luso Pre
+6,80% a.a.
+1440 dias
+R$ 5.000,00
+-
+
+CDB Luso Pre
+3,10% a.a.
+365 dias
+R$ 5.000,00
+-
+
+CDB Lecca Pos
+136,00% do CDI
+181 dias
+R$ 5.000,00
+-
+
+CDB Lecca Pos
+109,00% do CDI
+60 dias
+R$ 5.000,00
+-
+
+CDB Lecca Pos
+141,00% do CDI
+361 dias
+R$ 5.000,00
+-
+
+CDB Lecca Pos
+121,00% do CDI
+90 dias
+R$ 5.000,00
+-
+
+CDB GM Pos
+120,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB GM Pos
+125,00% do CDI
+1081 dias
+R$ 10.000,00
+-
+
+CDB GM Pos
+110,00% do CDI
+181 dias
+R$ 10.000,00
+-
+
+CDB GM Pos
+115,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB Focus Pre
+6,00% a.a.
+721 dias
+R$ 1.000,00
+-
+
+CDB Focus Pos
+147,00% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Digimais Pre
+8,26% a.a.
+1440 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pre
+2,73% a.a.
+361 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pre
+8,90% a.a.
+1800 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pre
+5,03% a.a.
+721 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pre
+6,70% a.a.
+1082 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pos
+147,00% do CDI
+1440 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pos
+147,00% do CDI
+1800 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pos
+137,00% do CDI
+1082 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pos
+109,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB Digimais Pos
+132,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB Caruana Pre
+2,20% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+7,30% a.a.
+1825 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+1,45% a.a.
+181 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+5,90% a.a.
+913 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+7,00% a.a.
+1460 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+5,25% a.a.
+730 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+6,70% a.a.
+1095 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pre
+3,20% a.a.
+548 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+113,00% do CDI
+730 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+111,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+112,00% do CDI
+548 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+117,50% do CDI
+2190 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+131,00% do CDI
+913 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+115,50% do CDI
+1460 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+116,50% do CDI
+1825 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+137,00% do CDI
+1095 dias
+R$ 1.000,00
+-
+
+CDB Caruana Pos
+105,00% do CDI
+181 dias
+R$ 1.000,00
+-
+
+CDB C6 Pre
+7,40% a.a.
+1440 dias
+R$ 5.000,00
+-
+
+CDB C6 Pre
+7,90% a.a.
+1800 dias
+R$ 5.000,00
+-
+
+CDB C6 Pre
+4,85% a.a.
+721 dias
+R$ 5.000,00
+-
+
+CDB C6 Pre
+6,65% a.a.
+1080 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil Pré-fixado
+6,40% a.a.
+1095 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil Pré-fixado
+3,00% a.a.
+365 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil Pré-fixado
+4,97% a.a.
+730 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil Pré-fixado
+1,73% a.a.
+181 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil
+124,00% do CDI
+365 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil
+132,00% do CDI
+1825 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil
+112,00% do CDI
+181 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil
+131,00% do CDI
+1460 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil
+130,00% do CDI
+1095 dias
+R$ 5.000,00
+-
+
+CDB Banco Industrial do Brasil
+127,00% do CDI
+730 dias
+R$ 5.000,00
+-
+
+CDB BRPartners Pre
+4,05% a.a.
+721 dias
+R$ 20.000,00
+-
+
+CDB BRPartners Pre
+2,33% a.a.
+365 dias
+R$ 20.000,00
+-
+
+CDB BDMG Pré
+5,23% a.a.
+1080 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+3,90% a.a.
+900 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+6,28% a.a.
+1620 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+3,02% a.a.
+540 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+7,03% a.a.
+1800 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+6,16% a.a.
+1440 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+5,34% a.a.
+1260 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+3,77% a.a.
+721 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pré
+2,18% a.a.
+361 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+111,00% do CDI
+1260 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+112,00% do CDI
+1440 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+102,00% do CDI
+721 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+114,00% do CDI
+1620 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+117,00% do CDI
+1800 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+100,00% do CDI
+540 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+105,00% do CDI
+900 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+99,00% do CDI
+361 dias
+R$ 10.000,00
+-
+
+CDB BDMG Pos
+109,00% do CDI
+1080 dias
+R$ 10.000,00
+-
+
+CDB Avista Pre
+3,65% a.a.
+365 dias
+R$ 1.000,00
+-
+
+CDB Avista Pre
+4,76% a.a.
+540 dias
+R$ 1.000,00
+-
+
+CDB Avista Pre
+5,17% a.a.
+1260 dias
+R$ 1.000,00
+-
+
+CDB Avista Pre
+4,83% a.a.
+1440 dias
+R$ 1.000,00
+-
+
+CDB Avista Pre
+6,83% a.a.
+900 dias
+R$ 1.000,00
+-
+
+CDB Avista Pre
+4,75% a.a.
+1800 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+145,00% do CDI
+900 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+145,00% do CDI
+1081 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+138,00% do CDI
+540 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+144,50% do CDI
+721 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+138,00% do CDI
+1800 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+119,00% do CDI
+1440 dias
+R$ 1.000,00
+-
+
+CDB Avista Pos
+138,00% do CDI
+365 dias
+R$ 1.000,00
+-
+
+CDB Máxima Pré-Fixado - Oferta da Semana
+10,50% a.a.
+3288 dias
+R$ 1.000,00
+-
+
+CDB Modal - Oferta da semana
+200,00% do CDI
+90 dias
+R$ 1.000,00
+-
